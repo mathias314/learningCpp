@@ -3,6 +3,11 @@ using namespace std;
 
 int main()
 {
-	cout << "Success\nSuccess Success\n\nSuccess\n";
+	char letter;
+
+	letter = 65;
+	cout << letter << endl;
+	
 	return 0;
 }
+
